@@ -48,6 +48,6 @@
 <h5 align="center"> Click here to view my Writeups</h5>
 <div align="center">
 <a href="https://github.com/PhatVND/CTF">
-    <img src="https://th.bing.com/th/id/OIP.R2RUjTAUf7I3LsExPfqZJwHaE7?rs=1&pid=ImgDetMain" height="100" "weight=50" alt="ctf logo" />
+    <img src="https://th.bing.com/th/id/OIP.R2RUjTAUf7I3LsExPfqZJwHaE7?rs=1&pid=ImgDetMain"width=200 height="100" alt="ctf logo" />
 </a>
 </div>
