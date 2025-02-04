@@ -24,9 +24,13 @@
 ###
 
 <div align="left">
+<a href="https://discord.gg/44EKy9Ss">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRtsfkgGNCdJKMJjDgBrfFfJFxGcFDhKQzcfSmSXLvlgsRlLfdnCwGQmZmFpvWHRTgSNJcl">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-<a href="https://www.facebook.com">
+  </a>
+<a href="https://www.linkedin.com/in/v%C3%B5-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-ph%C3%A1t-b78025320/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 </div>
