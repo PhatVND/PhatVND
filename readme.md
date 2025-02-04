@@ -45,8 +45,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PhatVND/count.svg?"  />
-</div>
+<a href="https://github.com/PhatVND/CTF">Click here to view my Writeups
+</a>
 
 ###
