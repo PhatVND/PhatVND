@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhatVND&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PhatVND&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="150" src="https://th.bing.com/th/id/R.c072d63d5a6ada8c83abef48e223408c?rik=cLasovW%2fkBWcOQ&pid=ImgRaw&r=0"  />
 
 ###
@@ -25,5 +32,15 @@
 ###
 
 <p align="left">"You need to endure hardship for a lifetime to enjoy a lifetime of comfort."</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/PhatVND/PhatVND/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/PhatVND/count.svg?"  />
+</div>
 
 ###
