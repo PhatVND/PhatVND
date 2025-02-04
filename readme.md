@@ -46,7 +46,7 @@
 ###
 
 <a href="https://github.com/PhatVND/CTF">
-<h5 align="center"> Click here to view my Writeups</h5>
+<p align="center"> Click here to view my Writeups</p>
 </a>
 
 ###
