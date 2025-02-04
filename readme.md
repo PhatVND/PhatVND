@@ -48,6 +48,6 @@
 <h5 align="center"> Click here to view my Writeups</h5>
 <div align="center">
 <a href="https://github.com/PhatVND/CTF">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://th.bing.com/th/id/OIP.R2RUjTAUf7I3LsExPfqZJwHaE7?rs=1&pid=ImgDetMain" height="35" alt="ctf logo" />
 </a>
 </div>
